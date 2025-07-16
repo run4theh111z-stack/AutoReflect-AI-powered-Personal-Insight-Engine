@@ -18,7 +18,7 @@ AutoReflect to zautomatyzowany system dziennika rozwojowego:
 
 ## ⚙️ Użyte technologie
 
--
+Make.com, Telegram Bot API, OpenAI API (ChatGPT), Notion API
 
 ---
 
@@ -49,16 +49,15 @@ AutoReflect to zautomatyzowany system dziennika rozwojowego:
 
 ## 🖼️ Screenshoty
 
-### 🔁 Scenariusz w Make.com
-
-
-
 ### 💬 Przykładowy dialog w Telegramie
+<img width="935" height="716" alt="tele_1" src="https://github.com/user-attachments/assets/b544781f-f9f5-4f38-957b-3f92f8c231d5" />
 
+<img width="798" height="700" alt="tele_2" src="https://github.com/user-attachments/assets/b82a606e-66a8-4ecf-8788-a53731186fbc" />
 
 
 ### 📒 Wpis w Notion
 
+<img width="1557" height="319" alt="notion" src="https://github.com/user-attachments/assets/458410bd-0941-4b80-9b8d-2bc4e26b3071" />
 
 
 ---
